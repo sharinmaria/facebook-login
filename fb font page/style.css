@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.header-are{
+  background-color: #3b5998;
+  height: 60px;
+  position: absolut;
+  width: 100%;
+  padding: 20px 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+  
+}
+.login-area a{
+  display: block;
+  margin-top: 10px;
+}
+.middle-area{
+  width: 80%;
+  margin: auto;
+  position: relative;
+}
+.login-area{
+  
+  width: 40%;
+  float: left;
+}
+.logo-area{
+  width: 60%;
+  float: left;
+}
+}
+.header-are::after{
+  content: ;
+  display: block;
+  clear: both;
+}
+.login-fast{
+  float: left;
+}
+.login-sec{
+  float: left;
+}
+.login-sub{
+  float: left;
+}
+.login-area input{
+  display: block;
+  margin-right: 5px;
+  font-size: 14px;
+  border: 1px solid #1d2a5b;
+}
+.amader-from::after{
+  display: block;
+  content: ;
+  clear: both;
+}
+.login-area{
+  float: right;
+}
+
+.login-area label{
+  color: #ffffff;
+  font-size: 12px;
+  cursor: pointer;
+  display: block;
+  margin: 5px;
+}
+.login-sec a{
+  color: #9cb4d8;
+}
+a{
+  text text-decoration: none;
+
+}
+a:hover{
+  text-decoration: underline;
+}
+.login-sub input{
+  background-color:#4267b2;
+  border-radius: 2px;
+  border: 2px solid  #4267b2 ;
+  color: #ffffff;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.clear{
+  clear: both;
+}
+
+.signup-left{
+  width: 60%;
+  float: left;
+}
+.signup-right{
+  width: 40%;
+  float: left;
+}
+.signup-area{
+  background: linear-gradient(#ffffff ,#D4D9E8);
+}
+.signup-area::after{
+  contain: ;
+  display: block;
+  clear: both;
+}
+h3{
+  color: blue;
+  font-size: 30px;
+}
